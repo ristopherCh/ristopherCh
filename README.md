@@ -1,10 +1,6 @@
 ### Hi there! 
 #### I am a work in progress. I'll let you know when this is no longer the case.
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
-
 
 <!--
 **ristopherCh/ristopherCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
