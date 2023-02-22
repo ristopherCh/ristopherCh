@@ -1,9 +1,6 @@
 ### Hi there! 
 #### I am a work in progress. I'll let you know when this is no longer the case.
 
-1. First list item
-   - First nested list item
-     - Second nested list item
 
 <!--
 **ristopherCh/ristopherCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
