@@ -7,6 +7,8 @@
 
 [Here's a showcase of the app](https://youtu.be/DuclT6BHbV4)
 
+---
+
 [Bid Frenzy](https://github.com/ristopherCh/cs50-final-project) is an app which provides a marketplace where users can offer items for sale, as well as make, accept, and reject bids for those offers. It was created as my final project for CS50, Harvard's Introduction to Computer Science course offered on udemy.com, in December 2022. It was created with Python, Flask, Bootstrap, and HTML/CSS.  
 
 [See a video of the app in use](https://youtu.be/07QwSRYMB6s)
