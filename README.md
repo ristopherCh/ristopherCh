@@ -1,5 +1,7 @@
 ### I'm Chris, a Full Stack Web Developer. 
 
+***
+
 #### Here's a showcase of some of my most recent projects:
 [Itemized](https://github.com/ristopherCh/itemized) is a platform for aiding users in organizing and documenting their personal projects and all items associated with them. It was created as my front end capstone project for Nashville Software School's Web Developer bootcamp in February 2023, using React, JavaScript, and HTML/CSS.  
 
