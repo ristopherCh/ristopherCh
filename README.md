@@ -13,9 +13,13 @@
 
 [See a video of the app in use](https://youtu.be/07QwSRYMB6s)
 
+---
+
 [Holiday Road](https://github.com/NSS-Day-Cohort-61/holiday-road-holiday-green-team) is a tool for gathering navigation and weather information for trips to and around National Parks. It was a 3 person group project, and a great opportunity to use GitHub Projects and the GitHub workflow of submitting and approving pull requests and keeping source code synced throughout the team.  
 
 [Here's a quick video of the app](https://www.youtube.com/watch?v=H4qBvp1WzMg)
+
+---
 
 [How has COVID-19 affected the US substance abuse crisis?](https://github.com/ristopherCh/PM-566-my-final-project)
 This is a data-driven report written in Fall 2021 investigating the relationship between the health and financial consequences of the COVID-19 pandemic and the astonishing increase in opioid deaths observed both before and during the pandemic. It was created as a final project for PM 566, Introduction to Health Data Science at the Keck School of Medicine of USC. It was created with R, dplyr, ggplot2, and R markdown.  
