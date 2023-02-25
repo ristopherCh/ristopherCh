@@ -1,5 +1,10 @@
-### Hi there! 
-#### I am a work in progress. I'll let you know when this is no longer the case.
+### I'm Chris, a Full Stack Web Developer. 
+
+#### Here's a showcase of some of my most recent projects:
+[Itemized](https://github.com/ristopherCh/itemized) is a platform for aiding users in organizing and documenting their personal projects and all items associated with them. It was created as my front end capstone project for Nashville Software School's Web Developer bootcamp in February 2023.
+[Here's a showcase of the app in use](https://youtu.be/DuclT6BHbV4)
+
+[Bid Frenzy](https://github.com/ristopherCh/cs50-final-project) is an app which provides a marketplace where users can offer items for sale, as well as make, accept, and reject bids for those offers. It was created as my final project for CS50, Harvard's Introduction to Computer Science course offered on udemy.com, in December 2022.
 
 
 <!--
