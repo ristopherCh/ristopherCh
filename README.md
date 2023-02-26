@@ -1,4 +1,4 @@
-## I'm Chris, a Full Stack Web Developer. 
+## I'm Chris, a full stack web developer living in Nashville, TN.
 
 ### Behold! A showcase of some of my recent projects.
 
