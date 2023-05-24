@@ -12,7 +12,6 @@ TechBoost is still in progress! Expect a final product in early April.
 
 ---
 
-***
 ### [Itemized](https://github.com/ristopherCh/itemized)  
 Itemized is a platform for aiding users in organizing and documenting their personal projects and all items associated with them. It was created as my front end capstone project for Nashville Software School's Web Developer bootcamp in February 2023.  
 *React, JavaScript, HTML/CSS*  
