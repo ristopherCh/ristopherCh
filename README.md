@@ -3,6 +3,16 @@
 ### Behold! A showcase of some of my recent projects.
 
 ***
+### [TechBoost](https://github.com/ristopherCh/techboost)  
+TechBoost is a site where users can find information about a large variety of tech tutorial tools that are available, be they a video series about JavaScript, web documentation about cloud computing, or a book about algorithms. There they can sort and filter through available resources, read reviews, and see user ratings, to find the ideal tutorial for their needs.
+TechBoost is still in progress! Expect a final product in early April.
+*React, JavaScript, HTML/CSS, .NET, C#*  
+
+[Here's a showcase of an initial version of the app](https://youtu.be/9d1m0XYqFRI)
+
+---
+
+***
 ### [Itemized](https://github.com/ristopherCh/itemized)  
 Itemized is a platform for aiding users in organizing and documenting their personal projects and all items associated with them. It was created as my front end capstone project for Nashville Software School's Web Developer bootcamp in February 2023.  
 *React, JavaScript, HTML/CSS*  
