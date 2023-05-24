@@ -8,7 +8,7 @@ TechBoost is a site where users can find information about a large variety of te
 TechBoost is still in progress! Expect a final product in early April.
 *React, JavaScript, HTML/CSS, .NET, C#*  
 
-[Here's a showcase of an initial version of the app](https://youtu.be/9d1m0XYqFRI)
+[Here's a video of an initial version of the app](https://youtu.be/9d1m0XYqFRI)
 
 ---
 
